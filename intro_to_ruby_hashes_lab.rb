@@ -7,7 +7,9 @@ def actor
 end
 
 def monopoly
-	monopoly = {}
+	monopoly = {
+		name: "Dwayne The Rock Johnson"
+	}
 
 end
 
